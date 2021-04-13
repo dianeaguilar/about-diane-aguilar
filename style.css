@@ -1,4 +1,69 @@
-h1 {color: purple}
+body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background: url(https://images.unsplash.com/photo-1458322493962-69c5a4ef7ddf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80) no-repeat top;
+    background-size: auto;
+}
 
-p {color: purple}
+h1 {
+    text-indent: .5%;
+    font-size: 75px;
+    text-shadow: 6px 3px 5px aliceblue;
+    color:purple;
+    border-color: darkgoldenrod;
+    border-width: 10px;
+    border-style: outset;
+    border-radius: 20px;
+    font-family: 'Gabriola',sans-serif;
+    background: url(https://images.unsplash.com/photo-1599056055426-6b61497a0db7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) no-repeat left;
+    background-size: 24em;
+
+}
+
+#start{
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 2px 1px 2px aliceblue;
+}
+
+#info{
+    text-align: center;
+
+}
+
+
+
+p {
+    text-indent: 2%;
+    color: rebeccapurple;
+    background-color: gray;
+    font-size: 27px;
+    font-family: 'Gabriola',sans-serif;
+    border-color: goldenrod;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+
+}
+
+.fit-picture {
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+    border-color: goldenrod;
+    border-width: 10px;
+    border-style: dotted;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
 
